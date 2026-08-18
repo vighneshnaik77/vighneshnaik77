@@ -9,9 +9,7 @@
 
 ---
 
-<div align="center">
-  <img align="right" width="250" src="https://i.imgur.com/1RvxVy3.gif" alt="Developer GIF"/>
-</div>
+
 
 ## **ABOUT ME**
 - **NAME:** VIGHNESH NAIK
@@ -45,7 +43,7 @@
 
 ### Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,git,github,linux,vscode,jupyter,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,git,github,linux,vscode,tensorflow,pytorch" />
 </p>
 
 ### Skill Progress
